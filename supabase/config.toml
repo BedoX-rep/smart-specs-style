@@ -1,1 +1,10 @@
 project_id = "ckdkxzdtpstepefnopym"
+
+[functions.analyze-face]
+verify_jwt = false
+
+[functions.search-frames]
+verify_jwt = false
+
+[functions.generate-try-on]
+verify_jwt = false
